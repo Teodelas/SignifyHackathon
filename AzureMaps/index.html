@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Signify Hackathon - Azure Maps</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="This sample shows how to create a simple custom control that centers and zooms the map to fit any data that is loaded on the map." />
+    <meta name="keywords" content="Microsoft maps, map, gis, API, SDK, " />
+    <meta name="author" content="Microsoft Azure Maps" />
+
+    <!-- Add references to the Azure Maps Map control JavaScript and CSS files. -->
+    <link rel="stylesheet" href="https://atlas.microsoft.com/sdk/javascript/mapcontrol/2/atlas.min.css" type="text/css" />
+    <script src="https://atlas.microsoft.com/sdk/javascript/mapcontrol/2/atlas.min.js"></script>
+
+    <!-- Load in the JavaScript that has our custom control. -->
+    <script src="BringDataIntoViewControl.js"></script>
+
+    <script type='text/javascript'>
+        var map, datasource;
+
+        function GetMap() {
+            //Initialize a map instance.
+            map = new atlas.Map('myMap', {
+                view: 'Auto',
+				
+				//Add your Azure Maps key to the map SDK. Get an Azure Maps key at https://azure.com/maps. NOTE: The primary key should be used as the key.
+                authOptions: {
+                    authType: 'subscriptionKey',
+                    subscriptionKey: 'GyRgOfY2aq0rjmDX1ZFdtJg4Y1wKM1xFs2WRednBXiI'
+                }
+            });
+
+            //Wait until the map resources are ready.
+            map.events.add('ready', function () {
+
+                //Add controls to the map.
+                map.controls.add(
+                    //Add a imperial scale bar to the map.
+                    new BringDataIntoViewControl({
+                        units: 'imperial'
+                    }), {
+                        position: 'top-left'
+                    });
+
+
+                //Load some test data.
+                loadTestData();
+            });
+        }
+
+        function loadTestData() {
+
+            //Create a data source to add your data to.
+            datasource = new atlas.source.DataSource(null, {
+                //Tell the data source to cluster point data.
+                //cluster: true,
+
+                //The radius in pixels to cluster points together.
+                //clusterRadius: 45,
+
+                //The maximium zoom level in which clustering occurs.
+                //If you zoom in more than this, all points are rendered as symbols.
+                //clusterMaxZoom: 15
+            });
+            map.sources.add(datasource);
+
+            //Load some point data into the data source.
+            datasource.importDataFromUrl('http://localhost:5500/SignifyPoiDataSet.json');
+
+            //Add a layer for rendering point data as symbols.
+            symbolLayer = new atlas.layer.SymbolLayer(datasource,null,{iconOptions: {allowOverlap: true}})
+            map.layers.add(symbolLayer);
+
+            //Create a popup but leave it closed so we can update it and display it later.
+            popup = new atlas.Popup({
+                position: [0, 0],
+                pixelOffset: [0, -18]
+            });
+
+            //Close the popup when the mouse moves on the map.
+            map.events.add('mousemove', closePopup);            
+
+            map.events.add('mousemove', symbolLayer, symbolHovered);
+
+            //Create a HTML marker and add it to the map.
+            //map.markers.add(new atlas.HtmlMarker({
+            //    color: 'DodgerBlue',
+             //   text: '10',
+             //   position: [-122.33, 47.6]
+            //}));
+        }
+
+        function symbolHovered(e) {
+            //Make sure the event occurred on a shape feature.
+            if (e.shapes && e.shapes.length > 0) {
+                var properties = e.shapes[0].getProperties();
+
+                //Update the content and position of the popup.
+                popup.setOptions({
+                    //Create the content of the popup.
+                    content: `<div style="padding:10px;"><b>"Name: "${properties.Name}</b><br/><b>"Id: "${properties.Id}</b><br/><b>"ExternalAssetId: "${properties.ExternalAssetId}</b><br/></div>`,
+                    position: e.shapes[0].getCoordinates(),
+                    pixelOffset: [0, -18]
+                });
+
+                //Open the popup.
+                popup.open(map);
+            }
+        }
+
+        function closePopup() {
+            popup.close();
+        }
+    </script>
+</head>
+<body onload="GetMap()">
+    <div><img src="./images/interact-logo.png"> <img src="./images/logoAzureMaps.png" height="50"> </div>
+    <div id="myMap" style="position:relative;width:100%;min-width:290px;height:600px;"></div>
+
+</body>
+</html>

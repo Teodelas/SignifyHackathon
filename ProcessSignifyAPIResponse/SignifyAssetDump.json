@@ -1,0 +1,1968 @@
+{
+  "Cursor": "1591766237701",
+  "Assets": [
+    {
+      "Id": 206032388,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "8ed2bc4e-eaff-4c53-9c21-d2e19886f47e",
+      "Latitude": 41.99568,
+      "Longitude": -87.88323,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 206032388,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "8ed2bc4e-eaff-4c53-9c21-d2e19886f47e",
+      "Latitude": 41.99568,
+      "Longitude": -87.88323,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [
+        {
+          "Id": 206247669,
+          "Name": null,
+          "ExternalId": "eb119892-d33a-4086-a6b8-0cf47c804558",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 206032388,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "8ed2bc4e-eaff-4c53-9c21-d2e19886f47e",
+      "Latitude": 41.99568,
+      "Longitude": -87.88323,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 206274109,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 206247669,
+          "Name": null,
+          "ExternalId": "eb119892-d33a-4086-a6b8-0cf47c804558",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 206032388,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "8ed2bc4e-eaff-4c53-9c21-d2e19886f47e",
+      "Latitude": 41.99568,
+      "Longitude": -87.88323,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 206274109,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 206247669,
+          "Name": null,
+          "ExternalId": "eb119892-d33a-4086-a6b8-0cf47c804558",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 206032388,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "8ed2bc4e-eaff-4c53-9c21-d2e19886f47e",
+      "Latitude": 41.99568,
+      "Longitude": -87.88323,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 206274109,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 206247669,
+          "Name": null,
+          "ExternalId": "eb119892-d33a-4086-a6b8-0cf47c804558",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 206032388,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "8ed2bc4e-eaff-4c53-9c21-d2e19886f47e",
+      "Latitude": 41.99568,
+      "Longitude": -87.88323,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 206274109,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 206247669,
+          "Name": null,
+          "ExternalId": "eb119892-d33a-4086-a6b8-0cf47c804558",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 206032388,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "8ed2bc4e-eaff-4c53-9c21-d2e19886f47e",
+      "Latitude": 41.99568,
+      "Longitude": -87.88323,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 206274109,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 206247669,
+          "Name": null,
+          "ExternalId": "eb119892-d33a-4086-a6b8-0cf47c804558",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012195,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "3605f66e-f8a3-4190-9a9b-4896a3b332dd",
+      "Latitude": 41.99539,
+      "Longitude": -87.88334,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012195,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "3605f66e-f8a3-4190-9a9b-4896a3b332dd",
+      "Latitude": 41.99539,
+      "Longitude": -87.88334,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [
+        {
+          "Id": 209009418,
+          "Name": null,
+          "ExternalId": "eeacce1b-0863-4ec2-ba38-9dad8b1d86de",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012195,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "3605f66e-f8a3-4190-9a9b-4896a3b332dd",
+      "Latitude": 41.99539,
+      "Longitude": -87.88334,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 206981892,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209009418,
+          "Name": null,
+          "ExternalId": "eeacce1b-0863-4ec2-ba38-9dad8b1d86de",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012195,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "3605f66e-f8a3-4190-9a9b-4896a3b332dd",
+      "Latitude": 41.99539,
+      "Longitude": -87.88334,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 206981892,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209009418,
+          "Name": null,
+          "ExternalId": "eeacce1b-0863-4ec2-ba38-9dad8b1d86de",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209009422,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "df952002-7078-4b7d-8e7a-206ef507069b",
+      "Latitude": 41.99544,
+      "Longitude": -87.88314,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209009422,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "df952002-7078-4b7d-8e7a-206ef507069b",
+      "Latitude": 41.99544,
+      "Longitude": -87.88314,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [
+        {
+          "Id": 209009423,
+          "Name": null,
+          "ExternalId": "823966c8-a529-489c-9f9b-7c716718bfcc",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012195,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "3605f66e-f8a3-4190-9a9b-4896a3b332dd",
+      "Latitude": 41.99539,
+      "Longitude": -87.88334,
+      "IsDeleted": false,
+      "CommissioningDate": {
+        "Year": 2019,
+        "Month": 8,
+        "Day": 11
+      },
+      "Olcs": [
+        {
+          "Id": 206981892,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209009418,
+          "Name": null,
+          "ExternalId": "eeacce1b-0863-4ec2-ba38-9dad8b1d86de",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        },
+        {
+          "Id": 209012197,
+          "Name": null,
+          "ExternalId": "13228453-df1b-426d-9bc5-92eda41b5fde",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012195,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "3605f66e-f8a3-4190-9a9b-4896a3b332dd",
+      "Latitude": 41.99539,
+      "Longitude": -87.88334,
+      "IsDeleted": false,
+      "CommissioningDate": {
+        "Year": 2019,
+        "Month": 8,
+        "Day": 11
+      },
+      "Olcs": [
+        {
+          "Id": 206981892,
+          "Name": null,
+          "ExternalId": null
+        },
+        {
+          "Id": 208979482,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209009418,
+          "Name": null,
+          "ExternalId": "eeacce1b-0863-4ec2-ba38-9dad8b1d86de",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        },
+        {
+          "Id": 209012197,
+          "Name": null,
+          "ExternalId": "13228453-df1b-426d-9bc5-92eda41b5fde",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012195,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "3605f66e-f8a3-4190-9a9b-4896a3b332dd",
+      "Latitude": 41.99539,
+      "Longitude": -87.88334,
+      "IsDeleted": false,
+      "CommissioningDate": {
+        "Year": 2019,
+        "Month": 8,
+        "Day": 11
+      },
+      "Olcs": [
+        {
+          "Id": 206981892,
+          "Name": null,
+          "ExternalId": null
+        },
+        {
+          "Id": 208979482,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209009418,
+          "Name": null,
+          "ExternalId": "eeacce1b-0863-4ec2-ba38-9dad8b1d86de",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        },
+        {
+          "Id": 209012197,
+          "Name": null,
+          "ExternalId": "13228453-df1b-426d-9bc5-92eda41b5fde",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012195,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "3605f66e-f8a3-4190-9a9b-4896a3b332dd",
+      "Latitude": 41.99539,
+      "Longitude": -87.88334,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 206981892,
+          "Name": null,
+          "ExternalId": null
+        },
+        {
+          "Id": 208979482,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209009418,
+          "Name": null,
+          "ExternalId": "eeacce1b-0863-4ec2-ba38-9dad8b1d86de",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        },
+        {
+          "Id": 209012197,
+          "Name": null,
+          "ExternalId": "13228453-df1b-426d-9bc5-92eda41b5fde",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012216,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": "3053SmokeTest",
+      "ExternalAssetId": "fe735527-1193-4fd5-ac4e-3dd6d0959917",
+      "Latitude": 41.99509,
+      "Longitude": -87.88303,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012216,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": "3053SmokeTest",
+      "ExternalAssetId": "fe735527-1193-4fd5-ac4e-3dd6d0959917",
+      "Latitude": 41.99509,
+      "Longitude": -87.88303,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [
+        {
+          "Id": 209012217,
+          "Name": null,
+          "ExternalId": "a00cc66f-b5e6-41c1-b629-fc2c1fe676c0",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012216,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": "3053SmokeTest",
+      "ExternalAssetId": "fe735527-1193-4fd5-ac4e-3dd6d0959917",
+      "Latitude": 41.99497,
+      "Longitude": -87.882904,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [
+        {
+          "Id": 209012217,
+          "Name": null,
+          "ExternalId": "a00cc66f-b5e6-41c1-b629-fc2c1fe676c0",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "for_test",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 10,
+            "ActualWattage": 10,
+            "LampTechnology": "Unknown",
+            "LampMaxBurningHours": 120000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 206032388,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "8ed2bc4e-eaff-4c53-9c21-d2e19886f47e",
+      "Latitude": 41.99568,
+      "Longitude": -87.88323,
+      "IsDeleted": false,
+      "CommissioningDate": {
+        "Year": 2019,
+        "Month": 6,
+        "Day": 8
+      },
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012195,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "3605f66e-f8a3-4190-9a9b-4896a3b332dd",
+      "Latitude": 41.99539,
+      "Longitude": -87.88334,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012216,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": "3053SmokeTest",
+      "ExternalAssetId": "fe735527-1193-4fd5-ac4e-3dd6d0959917",
+      "Latitude": 41.99497,
+      "Longitude": -87.882904,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 206032388,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "8ed2bc4e-eaff-4c53-9c21-d2e19886f47e",
+      "Latitude": 41.99568,
+      "Longitude": -87.88323,
+      "IsDeleted": false,
+      "CommissioningDate": {
+        "Year": 2019,
+        "Month": 6,
+        "Day": 8
+      },
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012195,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "3605f66e-f8a3-4190-9a9b-4896a3b332dd",
+      "Latitude": 41.99539,
+      "Longitude": -87.88334,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012216,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": "3053SmokeTest",
+      "ExternalAssetId": "fe735527-1193-4fd5-ac4e-3dd6d0959917",
+      "Latitude": 41.99497,
+      "Longitude": -87.882904,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 206032388,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "8ed2bc4e-eaff-4c53-9c21-d2e19886f47e",
+      "Latitude": 41.99568,
+      "Longitude": -87.88323,
+      "IsDeleted": false,
+      "CommissioningDate": {
+        "Year": 2019,
+        "Month": 6,
+        "Day": 8
+      },
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012195,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "3605f66e-f8a3-4190-9a9b-4896a3b332dd",
+      "Latitude": 41.99539,
+      "Longitude": -87.88334,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012216,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": "3053SmokeTest",
+      "ExternalAssetId": "fe735527-1193-4fd5-ac4e-3dd6d0959917",
+      "Latitude": 41.99497,
+      "Longitude": -87.882904,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 206032388,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "8ed2bc4e-eaff-4c53-9c21-d2e19886f47e",
+      "Latitude": 41.99568,
+      "Longitude": -87.88323,
+      "IsDeleted": false,
+      "CommissioningDate": {
+        "Year": 2019,
+        "Month": 6,
+        "Day": 8
+      },
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012195,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "3605f66e-f8a3-4190-9a9b-4896a3b332dd",
+      "Latitude": 41.99539,
+      "Longitude": -87.88334,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012216,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": "3053SmokeTest",
+      "ExternalAssetId": "fe735527-1193-4fd5-ac4e-3dd6d0959917",
+      "Latitude": 41.99497,
+      "Longitude": -87.882904,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012221,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "f20ab002-434e-411f-842c-b012c12a704a",
+      "Latitude": 41.994972,
+      "Longitude": -87.88437,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [
+        {
+          "Id": 209012222,
+          "Name": null,
+          "ExternalId": "201a1ef5-79bb-4db1-a169-5ac2dcb8800d",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209009441,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "380dd31c-8235-4219-a6c6-fa751ccb6496",
+      "Latitude": 41.994976,
+      "Longitude": -87.88364,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [
+        {
+          "Id": 209009442,
+          "Name": null,
+          "ExternalId": "71856bfe-f81d-42ec-a5c6-fa1eb9352aa6",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012221,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "f20ab002-434e-411f-842c-b012c12a704a",
+      "Latitude": 41.994972,
+      "Longitude": -87.88437,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [
+        {
+          "Id": 209012222,
+          "Name": null,
+          "ExternalId": "201a1ef5-79bb-4db1-a169-5ac2dcb8800d",
+          "LuminaireType": {
+            "Id": 209012220,
+            "Name": null,
+            "ExternalId": "aa4b722a-d066-473a-9d4c-e74bd90c8fa5",
+            "Model": null,
+            "TypeDesignation": "1To10V",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 45,
+            "ActualWattage": 45,
+            "LampTechnology": "LED",
+            "LampMaxBurningHours": 10000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012216,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": "3053SmokeTest",
+      "ExternalAssetId": "fe735527-1193-4fd5-ac4e-3dd6d0959917",
+      "Latitude": 41.99497,
+      "Longitude": -87.882904,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 206981892,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209012217,
+          "Name": null,
+          "ExternalId": "a00cc66f-b5e6-41c1-b629-fc2c1fe676c0",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012216,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": "3053SmokeTest",
+      "ExternalAssetId": "fe735527-1193-4fd5-ac4e-3dd6d0959917",
+      "Latitude": 41.99497,
+      "Longitude": -87.882904,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 206981892,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209012217,
+          "Name": null,
+          "ExternalId": "a00cc66f-b5e6-41c1-b629-fc2c1fe676c0",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012221,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "f20ab002-434e-411f-842c-b012c12a704a",
+      "Latitude": 41.994972,
+      "Longitude": -87.88437,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 208979482,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209012222,
+          "Name": null,
+          "ExternalId": "201a1ef5-79bb-4db1-a169-5ac2dcb8800d",
+          "LuminaireType": {
+            "Id": 209012220,
+            "Name": null,
+            "ExternalId": "aa4b722a-d066-473a-9d4c-e74bd90c8fa5",
+            "Model": null,
+            "TypeDesignation": "1To10V",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 45,
+            "ActualWattage": 45,
+            "LampTechnology": "LED",
+            "LampMaxBurningHours": 10000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012221,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "f20ab002-434e-411f-842c-b012c12a704a",
+      "Latitude": 41.994972,
+      "Longitude": -87.88437,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 208979482,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209012222,
+          "Name": null,
+          "ExternalId": "201a1ef5-79bb-4db1-a169-5ac2dcb8800d",
+          "LuminaireType": {
+            "Id": 209012220,
+            "Name": null,
+            "ExternalId": "aa4b722a-d066-473a-9d4c-e74bd90c8fa5",
+            "Model": null,
+            "TypeDesignation": "1To10V",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 45,
+            "ActualWattage": 45,
+            "LampTechnology": "LED",
+            "LampMaxBurningHours": 10000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209009441,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "380dd31c-8235-4219-a6c6-fa751ccb6496",
+      "Latitude": 41.994976,
+      "Longitude": -87.88364,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 207523909,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209009442,
+          "Name": null,
+          "ExternalId": "71856bfe-f81d-42ec-a5c6-fa1eb9352aa6",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209009441,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "380dd31c-8235-4219-a6c6-fa751ccb6496",
+      "Latitude": 41.994976,
+      "Longitude": -87.88364,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 207523909,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209009442,
+          "Name": null,
+          "ExternalId": "71856bfe-f81d-42ec-a5c6-fa1eb9352aa6",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209009441,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "380dd31c-8235-4219-a6c6-fa751ccb6496",
+      "Latitude": 41.994976,
+      "Longitude": -87.88364,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 207523909,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209009442,
+          "Name": null,
+          "ExternalId": "71856bfe-f81d-42ec-a5c6-fa1eb9352aa6",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 206032388,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "8ed2bc4e-eaff-4c53-9c21-d2e19886f47e",
+      "Latitude": 41.99568,
+      "Longitude": -87.88323,
+      "IsDeleted": false,
+      "CommissioningDate": {
+        "Year": 2019,
+        "Month": 6,
+        "Day": 8
+      },
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209009441,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "380dd31c-8235-4219-a6c6-fa751ccb6496",
+      "Latitude": 41.994976,
+      "Longitude": -87.88364,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012195,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "3605f66e-f8a3-4190-9a9b-4896a3b332dd",
+      "Latitude": 41.99539,
+      "Longitude": -87.88334,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012216,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": "3053SmokeTest",
+      "ExternalAssetId": "fe735527-1193-4fd5-ac4e-3dd6d0959917",
+      "Latitude": 41.99497,
+      "Longitude": -87.882904,
+      "IsDeleted": false,
+      "CommissioningDate": {
+        "Year": 2019,
+        "Month": 8,
+        "Day": 11
+      },
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 206032388,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "8ed2bc4e-eaff-4c53-9c21-d2e19886f47e",
+      "Latitude": 41.99568,
+      "Longitude": -87.88323,
+      "IsDeleted": false,
+      "CommissioningDate": {
+        "Year": 2019,
+        "Month": 6,
+        "Day": 8
+      },
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209009441,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "380dd31c-8235-4219-a6c6-fa751ccb6496",
+      "Latitude": 41.994976,
+      "Longitude": -87.88364,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012195,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "3605f66e-f8a3-4190-9a9b-4896a3b332dd",
+      "Latitude": 41.99539,
+      "Longitude": -87.88334,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012216,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": "3053SmokeTest",
+      "ExternalAssetId": "fe735527-1193-4fd5-ac4e-3dd6d0959917",
+      "Latitude": 41.99497,
+      "Longitude": -87.882904,
+      "IsDeleted": false,
+      "CommissioningDate": {
+        "Year": 2019,
+        "Month": 8,
+        "Day": 11
+      },
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012221,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "f20ab002-434e-411f-842c-b012c12a704a",
+      "Latitude": 41.994972,
+      "Longitude": -87.88437,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 208979482,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209012222,
+          "Name": null,
+          "ExternalId": "201a1ef5-79bb-4db1-a169-5ac2dcb8800d",
+          "LuminaireType": {
+            "Id": 209012220,
+            "Name": null,
+            "ExternalId": "aa4b722a-d066-473a-9d4c-e74bd90c8fa5",
+            "Model": null,
+            "TypeDesignation": "1To10V",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 45,
+            "ActualWattage": 45,
+            "LampTechnology": "LED",
+            "LampMaxBurningHours": 10000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012216,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": "3053SmokeTest",
+      "ExternalAssetId": "fe735527-1193-4fd5-ac4e-3dd6d0959917",
+      "Latitude": 41.99497,
+      "Longitude": -87.882904,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 206981892,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209012217,
+          "Name": null,
+          "ExternalId": "a00cc66f-b5e6-41c1-b629-fc2c1fe676c0",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali5",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 210061453,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "foo",
+      "Latitude": 41.99575,
+      "Longitude": -87.88342,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [],
+      "Luminaires": [],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 206032388,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "MyLightPoint-1",
+      "Latitude": 41.99568,
+      "Longitude": -87.88323,
+      "IsDeleted": false,
+      "CommissioningDate": {
+        "Year": 2019,
+        "Month": 6,
+        "Day": 8
+      },
+      "Olcs": [
+        {
+          "Id": 206274109,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 206247669,
+          "Name": null,
+          "ExternalId": "eb119892-d33a-4086-a6b8-0cf47c804558",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali5",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012195,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "3605f66e-f8a3-4190-9a9b-4896a3b332dd",
+      "Latitude": 41.99539,
+      "Longitude": -87.88334,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 222186973,
+          "Name": null,
+          "ExternalId": "222186973"
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209009418,
+          "Name": null,
+          "ExternalId": "eeacce1b-0863-4ec2-ba38-9dad8b1d86de",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali5",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        },
+        {
+          "Id": 209012197,
+          "Name": null,
+          "ExternalId": "13228453-df1b-426d-9bc5-92eda41b5fde",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali5",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012216,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": "3053SmokeTest",
+      "ExternalAssetId": "fe735527-1193-4fd5-ac4e-3dd6d0959917",
+      "Latitude": 41.99497,
+      "Longitude": -87.882904,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 238330655,
+          "Name": null,
+          "ExternalId": "238330655"
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209012217,
+          "Name": null,
+          "ExternalId": "a00cc66f-b5e6-41c1-b629-fc2c1fe676c0",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali5",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012221,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "f20ab002-434e-411f-842c-b012c12a704a",
+      "Latitude": 41.994972,
+      "Longitude": -87.88437,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 222410951,
+          "Name": null,
+          "ExternalId": "222410951"
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209012222,
+          "Name": null,
+          "ExternalId": "201a1ef5-79bb-4db1-a169-5ac2dcb8800d",
+          "LuminaireType": {
+            "Id": 209012220,
+            "Name": null,
+            "ExternalId": "aa4b722a-d066-473a-9d4c-e74bd90c8fa5",
+            "Model": null,
+            "TypeDesignation": "1To10V",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 45,
+            "ActualWattage": 45,
+            "LampTechnology": "LED",
+            "LampMaxBurningHours": 10000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012195,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "3605f66e-f8a3-4190-9a9b-4896a3b332dd",
+      "Latitude": 41.99539,
+      "Longitude": -87.88334,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 222186973,
+          "Name": null,
+          "ExternalId": "222186973"
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209009418,
+          "Name": null,
+          "ExternalId": "eeacce1b-0863-4ec2-ba38-9dad8b1d86de",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali5",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        },
+        {
+          "Id": 209012197,
+          "Name": null,
+          "ExternalId": "13228453-df1b-426d-9bc5-92eda41b5fde",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali5",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209009441,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "380dd31c-8235-4219-a6c6-fa751ccb6496",
+      "Latitude": 41.994976,
+      "Longitude": -87.88364,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 256136576,
+          "Name": null,
+          "ExternalId": "256136576"
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209009442,
+          "Name": null,
+          "ExternalId": "71856bfe-f81d-42ec-a5c6-fa1eb9352aa6",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali5",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209009441,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "380dd31c-8235-4219-a6c6-fa751ccb6496",
+      "Latitude": 41.994976,
+      "Longitude": -87.88364,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 256136576,
+          "Name": null,
+          "ExternalId": "256136576"
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209009442,
+          "Name": null,
+          "ExternalId": "71856bfe-f81d-42ec-a5c6-fa1eb9352aa6",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali5",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209009441,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "380dd31c-8235-4219-a6c6-fa751ccb6496",
+      "Latitude": 41.994976,
+      "Longitude": -87.88364,
+      "IsDeleted": false,
+      "CommissioningDate": null,
+      "Olcs": [
+        {
+          "Id": 265811401,
+          "Name": null,
+          "ExternalId": "265811401"
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209009442,
+          "Name": null,
+          "ExternalId": "71856bfe-f81d-42ec-a5c6-fa1eb9352aa6",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali5",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 206032388,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "MyLightPoint-2",
+      "Latitude": 41.99568,
+      "Longitude": -87.88323,
+      "IsDeleted": false,
+      "CommissioningDate": {
+        "Year": 2019,
+        "Month": 6,
+        "Day": 8
+      },
+      "Olcs": [
+        {
+          "Id": 206274109,
+          "Name": null,
+          "ExternalId": null
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 206247669,
+          "Name": null,
+          "ExternalId": "eb119892-d33a-4086-a6b8-0cf47c804558",
+          "LuminaireType": {
+            "Id": 206032387,
+            "Name": null,
+            "ExternalId": "85368f99-dd73-4b57-b360-16cf63b5c813",
+            "Model": null,
+            "TypeDesignation": "Dali5",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 38,
+            "ActualWattage": 38,
+            "LampTechnology": "Induction",
+            "LampMaxBurningHours": 12000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    },
+    {
+      "Id": 209012221,
+      "SiteId": "064623a3-2062-43f2-8d73-40bf951cf931",
+      "Name": null,
+      "ExternalAssetId": "MyLightPoint-1",
+      "Latitude": 41.994972,
+      "Longitude": -87.88437,
+      "IsDeleted": false,
+      "CommissioningDate": {
+        "Year": 2020,
+        "Month": 5,
+        "Day": 4
+      },
+      "Olcs": [
+        {
+          "Id": 222410951,
+          "Name": null,
+          "ExternalId": "222410951"
+        }
+      ],
+      "Luminaires": [
+        {
+          "Id": 209012222,
+          "Name": null,
+          "ExternalId": "201a1ef5-79bb-4db1-a169-5ac2dcb8800d",
+          "LuminaireType": {
+            "Id": 209012220,
+            "Name": null,
+            "ExternalId": "aa4b722a-d066-473a-9d4c-e74bd90c8fa5",
+            "Model": null,
+            "TypeDesignation": "1To10V",
+            "TypeDetails": null,
+            "Manufacturer": null,
+            "NominalWattage": 45,
+            "ActualWattage": 45,
+            "LampTechnology": "LED",
+            "LampMaxBurningHours": 10000
+          }
+        }
+      ],
+      "Brackets": [],
+      "Poles": []
+    }
+  ]
+}
