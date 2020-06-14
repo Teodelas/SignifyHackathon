@@ -23,6 +23,8 @@
         function GetMap() {
             //Initialize a map instance.
             map = new atlas.Map('myMap', {
+                center: [-87.9073, 41.9742],
+                zoom:12,
                 view: 'Auto',
 				
 				//Add your Azure Maps key to the map SDK. Get an Azure Maps key at https://azure.com/maps. NOTE: The primary key should be used as the key.
@@ -43,7 +45,7 @@
                     }), {
                         position: 'top-left'
                     });
-
+                    map.imageSprite.add('signify-icon', './images/signify-thumb.png')
 
                 //Load some test data.
                 loadTestData();
@@ -70,7 +72,7 @@
             datasource.importDataFromUrl('http://localhost:5500/SignifyPoiDataSet.json');
 
             //Add a layer for rendering point data as symbols.
-            symbolLayer = new atlas.layer.SymbolLayer(datasource,null,{iconOptions: {allowOverlap: true}})
+            symbolLayer = new atlas.layer.SymbolLayer(datasource,null,{iconOptions: {image: 'signify-icon', allowOverlap: true}})
             map.layers.add(symbolLayer);
 
             //Create a popup but leave it closed so we can update it and display it later.
@@ -116,7 +118,7 @@
     </script>
 </head>
 <body onload="GetMap()">
-    <div><img src="./images/interact-logo.png"> <img src="./images/logoAzureMaps.png" height="50"> </div>
+    <div><img src="./images/signify-logo.png"> <img src="./images/logoAzureMaps.png" height="50"> </div>
     <div id="myMap" style="position:relative;width:100%;min-width:290px;height:600px;"></div>
 
 </body>
