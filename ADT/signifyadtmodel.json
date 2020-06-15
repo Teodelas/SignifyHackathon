@@ -1,0 +1,17 @@
+{
+  "@id": "dtmi:com:Interact:SignifyModel;1",
+  "@type": "Interface",
+  "displayName": "SignifyModel",
+  "contents": [
+    {
+      "@type": "Relationship",
+      "name": "contains"
+    },
+    {
+      "@type": "Property",
+      "name": "data",
+      "schema": "string"
+    }
+  ],
+  "@context": "dtmi:dtdl:context;2"
+}

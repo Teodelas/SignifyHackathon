@@ -2,6 +2,7 @@ var fs = require('fs');
 var signifyjson = JSON.parse(fs.readFileSync('SignifyAssetDump.json','utf-8'));
 var finaljson = JSON.parse('{"type": "FeatureCollection","features": []}');
 var mapsjson = {};
+var coordinates = [];
 
 for (i=0; i < signifyjson.Assets.length; i++) {
    var tmp = '{"type":"Feature","geometry":{"type":"Point","coordinates":[' + signifyjson.Assets[i].Longitude + ',' + signifyjson.Assets[i].Latitude + ']},"properties":{"Name":"' + signifyjson.Assets[i].Name + '", "Id":"", "ExternalAssetId":""}}';
@@ -9,8 +10,10 @@ for (i=0; i < signifyjson.Assets.length; i++) {
    mapsjson.properties.Id = signifyjson.Assets[i].Id;
    mapsjson.properties.ExternalAssetId = signifyjson.Assets[i].ExternalAssetId;
    finaljson.features.push(mapsjson);
+   coordinates.push(signifyjson.Assets[i].Longitude + ',' + signifyjson.Assets[i].Latitude + '\n');
 }
 
 console.log('starting')
 fs.writeFile('SignifyPoiDataSet.json',JSON.stringify(finaljson));
+fs.writeFile('coordinate-dump.csv', coordinates.toString());
 
