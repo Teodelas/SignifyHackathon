@@ -69,7 +69,7 @@
             map.sources.add(datasource);
 
             //Load some point data into the data source.
-            datasource.importDataFromUrl('SignifyPoiDataSet.json');
+            datasource.importDataFromUrl('https://teodemostorage.blob.core.windows.net/signifydata/SignifyPoiDataSet.json');
 
             //Add a layer for rendering point data as symbols.
             symbolLayer = new atlas.layer.SymbolLayer(datasource,null,{iconOptions: {image: 'signify-icon', allowOverlap: true}})
